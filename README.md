@@ -1,4 +1,4 @@
-$ cd tobiasalin.github.io
+$ yongjun123.github.io
 $ echo "Hello World!" > index.html
 $ git add index.html
 $ git commit -m "Init commit"
